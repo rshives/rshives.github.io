@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: My first post using Jekyll and github pages
 ---
 
