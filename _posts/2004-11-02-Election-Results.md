@@ -1,3 +1,9 @@
+---
+layout: default
+title: Election Results
+---
+
+### {{ page.title }}
 George W. Bush (i) Republican 58,319,499 (51%) 269 Electorial Votes
 <br />John F. Kerry Democrat 54,805,359 (48%) 242 Electorial Votes
 <br />Ralph Nader Independent 390,461 (0%) 0 Electroial Votes
