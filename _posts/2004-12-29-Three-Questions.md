@@ -1,3 +1,9 @@
+---
+layout: default
+title: Three Questions
+---
+
+### {{ page.title }}
 THREE SCREENNAMES YOU HAVE HAD:
 <br />sooner
 <br />Zagora
