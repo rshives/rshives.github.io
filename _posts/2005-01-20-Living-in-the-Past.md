@@ -1,3 +1,9 @@
+---
+layout: default
+title: Living in the Past
+---
+
+### {{ page.title }}
 How many times have you heard someone say, "he or she's living in the past"?  How many people do you know live in the past?  On the surface these questions are usually figures of speech.  But when you think about it the answer to the second question should be, everyone I know is living in the past.
 <br />
 <br />Light travels at 299,792,458 meters per second. Sound travels at approximately 347 meters per second.  On a human level this seems instant, but if someone is standing one meter away from you everything they say takes 0.002881844380403458213 seconds to travel to your ears.  When you flick on the light switch the light hits your eyes 1 / 299,792,458 of a second later.  In our immediate surroundings this delay seems insignificant, but lets take it outside our immediate surroundings.
