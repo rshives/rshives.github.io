@@ -1,3 +1,9 @@
+---
+layout: default
+title: And You Wonder Why...
+---
+
+### {{ page.title }}
 And you wonder why prescription drugs are so expensive?  
 <br />
 <br />During lunch with my wonderful and beautiful wife, a commercial came on the radio:  Attention former Vioxx users due to Merck's recall you may be entitled to money...  Contact us and get in on our lawsuit against Merck.  Not those exact words of course, but that's the gist.  And it was from some law firm in Georgia I think.  My wife said she heard a local law firm offering the same chance.
